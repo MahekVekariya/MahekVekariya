@@ -31,12 +31,11 @@ I'm diving deeper into advanced Playwright features, such as handling dynamic we
 I am also exploring the fundamentals of Cypress to strengthen my test automation skills.
 
 ---
-<!--
+
 ## 💬 Let's Connect
-- **GitHub Repositories:** Explore my work right here on [GitHub](https://github.com/your-profile-link).
-- **LinkedIn:** Connect with me on [LinkedIn](https://linkedin.com/in/your-profile-link).
-- **Email:** Reach out at your.email@example.com.
--->
+- **GitHub Repositories:** Explore my work right here on [GitHub](https://github.com/MahekVekariya).
+- **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/mahek-vekariya/).
+- **Email:** Reach out at mahekvekariya101@gmail.com.
 ---
 
 Thank you for stopping by! Feel free to check out my repositories, leave a star ⭐, or reach out if you'd like to collaborate!
